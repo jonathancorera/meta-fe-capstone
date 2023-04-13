@@ -1,0 +1,41 @@
+.booking {
+  padding: 3rem 0 0 0;
+  gap: 2rem;
+  background-color: #edefee;
+}
+
+.booking{
+  background-color: #495e57;
+}
+
+.booking section {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  
+}
+
+.booking h1 {
+  text-align: center;
+  color: #f4ce14;
+}
+
+.booking button {
+  margin: 0 0 10px 0;
+  display: flex;
+  align-self: center;
+  max-width: 300px;
+  font-size: 12pt;
+  font-weight: 600;
+  background-color: #f4ce14;
+  color: #333;
+  border-radius: 10px;
+  border: none;
+}
+
+.booking img{
+  object-fit: cover;
+ 
+  width: 40%;
+  
+}

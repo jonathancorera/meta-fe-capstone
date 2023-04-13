@@ -2,7 +2,7 @@ header {
   display: flex;
   background-color: #495e57;
   padding: 0 15%;
-  height: 400px;
+  height: 500px;
 }
 
 .left-side,
@@ -12,6 +12,7 @@ header {
 
 .left-side {
   color: white;
+
 }
 
 header h1 {

@@ -2,7 +2,7 @@ import React from "react";
 import { Link } from "react-router-dom";
 import Logo from "../assets/logo.png";
 import "./Header.css";
-import Booking from "../pages/Booking";
+import Booking from "../pages/BookingPage";
 import { useNavigate } from "react-router-dom";
 
 const Header = () => {
@@ -29,7 +29,7 @@ const Header = () => {
       <div className="right-side">
         <img
           src={Logo}
-          alt="our cook holding a tablet with delicoues baguettes"
+          alt="little lemon logo"
         />
       </div>
     </header>
